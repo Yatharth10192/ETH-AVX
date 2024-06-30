@@ -11,8 +11,8 @@ npx hardhat run scripts/deploy.js
 
 
 ## Authors
-vaibhav chhillar 
-vaicozcchillar@gmail.com
+Yatharth Sharma
+yatharths10192@gmail.com
 
 ## License
 
